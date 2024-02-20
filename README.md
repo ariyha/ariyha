@@ -4,7 +4,7 @@
 
 Hey everyone. I am nithish ariyha, an aspiring AI/ML undergraduate studying at Amrita Vishwa Vidyapeetham ⚡️ 🚀
 📫**Connect with me**
-- LinkedIn: [Nithish Ariyha](https://www.linkedin.com/in/ariyha/)
+- LinkedIn: [Nithish Ariyha](https://www.linkedin.com/in/nithishariyha/)
 - Email:nithishariyha02467@gmail.com 📧
 
 Don't hesitate to connect if you're interested in engaging conversations about AI/ML, Product Development, potential collaborations, or simply a friendly exchange! Let's explore the frontiers of intelligence together. 🚀🧠
@@ -13,7 +13,6 @@ Don't hesitate to connect if you're interested in engaging conversations about A
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/always_ariyha) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithishariyha)   
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NithishAri65935)
 
 
 # 💻 Tech Stack:
@@ -27,18 +26,3 @@ Don't hesitate to connect if you're interested in engaging conversations about A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyha&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=ariyha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--
-**ariyha/ariyha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
